@@ -1,0 +1,64 @@
+{
+    "taskType":[
+        {
+            "key":1,
+            "value": "1",
+            "label": "一路购(元初)"
+        },
+        {
+            "key":2,
+            "value": "2",
+            "label": "已加再购(已加过的)"
+        },
+        {
+            "key":3,
+            "value": "3",
+            "label": "评价"
+        },
+        {
+            "key":4,
+            "value": "4",
+            "label": "先下其他sku再购"
+        },
+        {
+            "key":5,
+            "value": "5",
+            "label": "先下超市再购"
+        },
+        {
+            "key":6,
+            "value": "6",
+            "label": "先下秒杀再购"
+        },
+        {
+            "key":10,
+            "value": "10",
+            "label": "只加购"
+        },
+        {
+            "key":11,
+            "value": "11",
+            "label": "只下单"
+        },
+        {
+            "key":12,
+            "value": "12",
+            "label": "只下单(公司付)"
+        },
+        {
+            "key":13,
+            "value": "13",
+            "label": "只下单(货到付款)"
+        },
+        {
+            "key":15,
+            "value": "15",
+            "label": "只领券"
+        },
+        {
+            "key":16,
+            "value": "16",
+            "label": "手动补单"
+        }],
+    "pageTotal": 7
+ }
